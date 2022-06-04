@@ -6,6 +6,8 @@
   "scripts": {
     "fs:create": "node src/fs/create.js",
     "fs:read": "node src/fs/read.js",
+    "cli": "node src/cli/env.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
